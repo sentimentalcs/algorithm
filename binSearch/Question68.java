@@ -7,7 +7,7 @@ package binSearch;
 // 回 2
 public class Question68{
    public static void main(String[] args) {
-        int[] nums = {1, 3, 6, 8};
+        int[] nums = {1, 3, 6, 8,10};
         int target = 3;
         System.out.println(searchInsert(nums, target));
    }
@@ -18,15 +18,14 @@ public class Question68{
         int right = nums.length -1;
         while (left <= right){
             int middle = (left + right) / 2;
-            if(nums[middle] >= target){
-                if(middle == 0 || nums[middle - 1] < target){
-                    return middle;
-                }
+            if(nums[middle] > target){
                 right = middle - 1;
+            }else if(nums[middle] == target){
+                return middle;
             }else{
-                left = right + 1;
+                left = middle + 1;
             }
         }
-        return nums.length;
-   }
+        return left;
+    }
 }
