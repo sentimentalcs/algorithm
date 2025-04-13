@@ -1,0 +1,97 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Question74_1",
+            "request": "launch",
+            "mainClass": "sort.Question74_1",
+            "projectName": "algorithm_23787b53"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Question21",
+            "request": "launch",
+            "mainClass": "LinkedList.Question21",
+            "projectName": "algorithm_23787b53"
+        },
+        {
+            "type": "java",
+            "name": "Question22",
+            "request": "launch",
+            "mainClass": "LinkedList.Question22",
+            "projectName": "algorithm_23787b53"
+        },
+        {
+            "type": "java",
+            "name": "Question23",
+            "request": "launch",
+            "mainClass": "LinkedList.Question23",
+            "projectName": "algorithm_23787b53"
+        },
+        {
+            "type": "java",
+            "name": "Question24",
+            "request": "launch",
+            "mainClass": "LinkedList.Question24",
+            "projectName": "algorithm_23787b53"
+        },
+        {
+            "type": "java",
+            "name": "Question25",
+            "request": "launch",
+            "mainClass": "LinkedList.Question25",
+            "projectName": "algorithm_23787b53"
+        },
+        {
+            "type": "java",
+            "name": "Question26",
+            "request": "launch",
+            "mainClass": "LinkedList.Question26",
+            "projectName": "algorithm_23787b53"
+        },
+        {
+            "type": "java",
+            "name": "Question28",
+            "request": "launch",
+            "mainClass": "LinkedList.Question28",
+            "projectName": "algorithm_23787b53"
+        },
+        {
+            "type": "java",
+            "name": "Question29",
+            "request": "launch",
+            "mainClass": "LinkedList.Question29",
+            "projectName": "algorithm_23787b53"
+        },
+        {
+            "type": "java",
+            "name": "Question68",
+            "request": "launch",
+            "mainClass": "binSearch.Question68",
+            "projectName": "algorithm_23787b53"
+        },
+        {
+            "type": "java",
+            "name": "Question74",
+            "request": "launch",
+            "mainClass": "sort.Question74",
+            "projectName": "algorithm_23787b53"
+        }
+    ]
+}
