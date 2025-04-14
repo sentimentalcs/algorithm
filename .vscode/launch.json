@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QuickSortRecurse",
+            "request": "launch",
+            "mainClass": "sort.QuickSortRecurse",
+            "projectName": "algorithm_23787b53"
+        },
+        {
+            "type": "java",
             "name": "Question75",
             "request": "launch",
             "mainClass": "sort.Question75",
