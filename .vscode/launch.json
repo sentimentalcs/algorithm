@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Question77",
+            "request": "launch",
+            "mainClass": "sort.Question77",
+            "projectName": "algorithm_23787b53"
+        },
+        {
+            "type": "java",
+            "name": "mergeSortArr",
+            "request": "launch",
+            "mainClass": "sort.mergeSortArr",
+            "projectName": "algorithm_23787b53"
+        },
+        {
+            "type": "java",
             "name": "Question76",
             "request": "launch",
             "mainClass": "sort.Question76",
