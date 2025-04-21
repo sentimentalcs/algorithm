@@ -61,7 +61,7 @@ public class Question77 {
     }
 
     public ListNode split(ListNode node)
-    {
+    {  
         ListNode slow = node;
         ListNode fast = node.next;
 
