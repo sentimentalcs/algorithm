@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Question7",
+            "request": "launch",
+            "mainClass": "array.Question7",
+            "projectName": "algorithm_50dac7b2"
+        },
+        {
+            "type": "java",
+            "name": "Question6",
+            "request": "launch",
+            "mainClass": "array.Question6",
+            "projectName": "algorithm_50dac7b2"
+        },
+        {
+            "type": "java",
             "name": "Question6",
             "request": "launch",
             "mainClass": "array.Question6",
