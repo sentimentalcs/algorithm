@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Question8",
+            "request": "launch",
+            "mainClass": "array.Question8",
+            "projectName": "algorithm_50dac7b2"
+        },
+        {
+            "type": "java",
             "name": "Question7",
             "request": "launch",
             "mainClass": "array.Question7",
