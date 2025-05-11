@@ -24,7 +24,7 @@ public class Question10 {
         //存储前缀和出现的次数
         Map<Integer,Integer> sumToCount = new HashMap<>();
 
-        
+        //保证当前整个子数组正好是等于该值
         sumToCount.put(0, 1);
         int sum = 0;
         int count = 0;
